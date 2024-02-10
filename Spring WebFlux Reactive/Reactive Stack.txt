@@ -1,0 +1,8 @@
+WebFlux Reactive 异步IO
+- 非阻塞式编程
+- 底层使用netty(高效的IO通讯中间件)
+
+注意Reactive的测试和Debugging
+https://spring.io/reactive
+https://www.youtube.com/watch?v=Z5q-CXbvM1E
+https://www.youtube.com/watch?v=0oI_-xBhAK8
