@@ -11,10 +11,10 @@ import reactor.core.publisher.Mono;
 import static org.springframework.web.reactive.function.server.ServerResponse.ok;
 
 @SpringBootApplication
-public class SpringWebReactiveApplication {
+public class WebReactiveApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringWebReactiveApplication.class, args);
+        SpringApplication.run(WebReactiveApplication.class, args);
     }
 
     @Bean
